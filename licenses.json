@@ -1,0 +1,15 @@
+{ 
+ "licenses": [ 
+ { 
+ "active": true, 
+ "expires": "2026-11-23", 
+ "id": "L001", 
+ "key": "427d6593e168043929f1eefae593d18b9ebdeb31b4797a778e2c298dffdfd4c8", 
+ "projects": [ 
+ "7942a02dc675fa0ea0732734ad2386f5fd07c4eb041207a65d1ebd0e2544f603" 
+ ] 
+ } 
+ ], 
+ "updated": "2026-10-23", 
+ "version": 1 
+}
